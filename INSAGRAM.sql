@@ -1,0 +1,1 @@
+SELECT * FROM ig_clone.follows;
